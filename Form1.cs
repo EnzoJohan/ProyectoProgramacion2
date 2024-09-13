@@ -25,7 +25,8 @@ namespace ProyectoProgramacion1
 
             switch (cmbCombos.SelectedIndex)
             {
-                case 0: // Combo Simple
+                case 0: // combo simple
+            
                     precioBase = 5.0;
                     descuento = 0.05;
                     break;
